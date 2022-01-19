@@ -1,0 +1,19 @@
+{
+  "name": "gql_pracise",
+  "version": "0.0.1",
+  "description": "practise for gql",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "vector26",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.2.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15"
+  }
+}
